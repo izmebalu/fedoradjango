@@ -1,0 +1,9 @@
+h1{
+  background-color: pink;
+  color: red;
+}
+.container .jumbotron{
+  background: red;
+  color: white;
+  margin-top: 200px;
+}

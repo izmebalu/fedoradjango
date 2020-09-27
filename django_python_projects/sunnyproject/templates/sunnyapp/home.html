@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{% static "css/demo.css" %}">
+    <title></title>
+    <style >
+      h1{
+        color:red;
+      }
+      h2{
+        color:green;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello friends a very {{msg}} this is home application</h1>
+    <h2>The server time is: {{date_msg}}</h2>
+    <a href="/profile">Click here to view sunny</a>
+
+
+  </body>
+</html>
