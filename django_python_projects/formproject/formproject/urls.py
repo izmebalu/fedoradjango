@@ -20,4 +20,5 @@ from formapp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('register/', views.studentregister),
+    path('thankyou/', views.thankyou),
 ]

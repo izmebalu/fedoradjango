@@ -2,14 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52378c2d-1471-40ad-8968-915175a9550a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/django_python_projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alekhyaproject/alekhyaApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/formproject/templates/formapp/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/django python projects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/formproject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formproject/formapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/formproject/formapp/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formproject/formapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/formproject/formapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formproject/formproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/formproject/formproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formproject/static/css/fdemo.css" beforeDir="false" afterPath="$PROJECT_DIR$/formproject/static/css/fdemo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formproject/templates/formapp/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/formproject/templates/formapp/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/formproject/templates/formapp/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/studentproject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/static/css/streg.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/studentproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/studentproject/studentproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/studentproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/studentproject/studentproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/templates/testapp/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/testapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/testapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/testapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/testapp/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/testapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/testapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/testapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/testapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentproject/testapp/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.settings (4)">
+  <component name="RunManager" selected="Python.settings (1)">
     <configuration name="settings (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="django_python_projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,34 +58,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alekhyaproject/alekhyaproject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studentproject/studentproject" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alekhyaproject/alekhyaproject/settings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="settings (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="django_python_projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sunnyproject/sunnyproject" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sunnyproject/sunnyproject/settings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/studentproject/studentproject/settings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,6 +108,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formproject/formproject/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="django_python_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testproject/testproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testproject/testproject/settings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.settings (1)" />
+        <item itemvalue="Python.settings (5)" />
         <item itemvalue="Python.settings (4)" />
         <item itemvalue="Python.settings (3)" />
         <item itemvalue="Python.settings" />
-        <item itemvalue="Python.settings (2)" />
-        <item itemvalue="Python.settings (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +207,9 @@
       <workItem from="1600846557781" duration="822000" />
       <workItem from="1600849094074" duration="8010000" />
       <workItem from="1601036158438" duration="1882000" />
-      <workItem from="1601116004330" duration="2130000" />
+      <workItem from="1601116004330" duration="4711000" />
+      <workItem from="1601460001181" duration="1906000" />
+      <workItem from="1601635392996" duration="325000" />
     </task>
     <servers />
   </component>
@@ -201,22 +217,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1554" height="205" key="GridCell.Tab.0.bottom" timestamp="1601195849686">
+    <state width="1554" height="205" key="GridCell.Tab.0.bottom" timestamp="1601274053468">
       <screen x="0" y="27" width="1600" height="840" />
     </state>
-    <state width="1554" height="205" key="GridCell.Tab.0.bottom/0.27.1600.840@0.27.1600.840" timestamp="1601195849686" />
-    <state width="1554" height="205" key="GridCell.Tab.0.center" timestamp="1601195849685">
+    <state width="1554" height="205" key="GridCell.Tab.0.bottom/0.27.1600.840@0.27.1600.840" timestamp="1601274053468" />
+    <state width="1554" height="205" key="GridCell.Tab.0.center" timestamp="1601274053468">
       <screen x="0" y="27" width="1600" height="840" />
     </state>
-    <state width="1554" height="205" key="GridCell.Tab.0.center/0.27.1600.840@0.27.1600.840" timestamp="1601195849685" />
-    <state width="1554" height="205" key="GridCell.Tab.0.left" timestamp="1601195849685">
+    <state width="1554" height="205" key="GridCell.Tab.0.center/0.27.1600.840@0.27.1600.840" timestamp="1601274053468" />
+    <state width="1554" height="205" key="GridCell.Tab.0.left" timestamp="1601274053468">
       <screen x="0" y="27" width="1600" height="840" />
     </state>
-    <state width="1554" height="205" key="GridCell.Tab.0.left/0.27.1600.840@0.27.1600.840" timestamp="1601195849685" />
-    <state width="1554" height="205" key="GridCell.Tab.0.right" timestamp="1601195849686">
+    <state width="1554" height="205" key="GridCell.Tab.0.left/0.27.1600.840@0.27.1600.840" timestamp="1601274053468" />
+    <state width="1554" height="205" key="GridCell.Tab.0.right" timestamp="1601274053468">
       <screen x="0" y="27" width="1600" height="840" />
     </state>
-    <state width="1554" height="205" key="GridCell.Tab.0.right/0.27.1600.840@0.27.1600.840" timestamp="1601195849686" />
+    <state width="1554" height="205" key="GridCell.Tab.0.right/0.27.1600.840@0.27.1600.840" timestamp="1601274053468" />
     <state x="289" y="82" width="1022" height="737" key="SettingsEditor" timestamp="1601036286635">
       <screen x="0" y="27" width="1600" height="840" />
     </state>
@@ -229,8 +245,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/django_python_projects$settings.coverage" NAME="settings Coverage Results" MODIFIED="1601116270635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srijaproject/srijaproject" />
     <SUITE FILE_PATH="coverage/django_python_projects$settings__4_.coverage" NAME="settings (4) Coverage Results" MODIFIED="1601195849665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/formproject/formproject" />
+    <SUITE FILE_PATH="coverage/django_python_projects$settings__5_.coverage" NAME="settings (5) Coverage Results" MODIFIED="1601274053449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testproject/testproject" />
     <SUITE FILE_PATH="coverage/django_python_projects$settings__2_.coverage" NAME="settings (2) Coverage Results" MODIFIED="1600863107783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sunnyproject/sunnyproject" />
-    <SUITE FILE_PATH="coverage/django_python_projects$settings__1_.coverage" NAME="settings (1) Coverage Results" MODIFIED="1600846830906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alekhyaproject/alekhyaproject" />
+    <SUITE FILE_PATH="coverage/django_python_projects$settings__1_.coverage" NAME="settings (1) Coverage Results" MODIFIED="1601491228695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studentproject/studentproject" />
     <SUITE FILE_PATH="coverage/django_python_projects$settings__3_.coverage" NAME="settings (3) Coverage Results" MODIFIED="1601116348666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newsproject/newsproject" />
   </component>
 </project>
