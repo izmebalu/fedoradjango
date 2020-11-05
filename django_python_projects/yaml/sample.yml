@@ -1,0 +1,12 @@
+---
+# Here person is dictionary
+person:
+  name: bharath
+  age: 29
+  sex: male
+  hobbies: #Here hobbies is a Array/list
+    - cooking
+    - cycling
+    - eating
+  friends: [mahesh,naresh,suresh] # This way of listing is also allowed
+
